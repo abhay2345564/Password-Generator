@@ -159,8 +159,7 @@ generateBtn.addEventListener('click', () => {
     console.log("Starting the Journey");
     //remove old password
     password = "";
-d += generateSymbol();
-    
+
     let funcArr = [];
 
     if(uppercaseCheck.checked)
